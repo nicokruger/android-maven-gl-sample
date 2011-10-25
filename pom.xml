@@ -41,7 +41,7 @@
                     </sdk>
                     <emulator>
                         <!-- the name of the avd device to use for starting the emulator -->
-                        <avd>16</avd>
+                        <avd>default</avd>
                     </emulator>
                     <deleteConflictingFiles>true</deleteConflictingFiles>
                     <undeployBeforeDeploy>true</undeployBeforeDeploy>
